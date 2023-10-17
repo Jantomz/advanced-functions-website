@@ -137,6 +137,10 @@ p {
   .container {
     margin: 0rem 5rem;
   }
+
+  .inline {
+    display: block;
+  }
 }
 
 .footer {
