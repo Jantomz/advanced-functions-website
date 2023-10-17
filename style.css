@@ -1,0 +1,110 @@
+* {
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  padding: 0em;
+  margin: 0em;
+  box-sizing: border-box;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.container {
+  margin: 0em 10rem;
+}
+
+.title {
+  font-size: 5rem;
+  width: 50%;
+  margin-top: 5rem;
+}
+
+.span {
+  font-size: 5rem;
+  color: rgb(255, 109, 109);
+}
+
+.subtitle {
+  font-size: 2rem;
+}
+
+.creds {
+  color: gray;
+  font-size: 1.2rem;
+  padding-top: 1rem;
+}
+
+.line {
+  height: 4px;
+  border-radius: 2rem;
+  width: 20rem;
+  background: black;
+  margin-top: 1rem;
+}
+
+.section-title {
+  font-size: 3rem;
+  margin: 3rem 0rem;
+}
+
+.left-content {
+  padding: 1rem 0rem;
+}
+
+.large-content {
+  font-size: 3rem;
+}
+
+.inline-img {
+}
+
+.inline {
+  display: flex;
+}
+
+.flexed-right {
+  padding: 3rem;
+}
+
+.flexed-left {
+  padding: 3rem 3rem 3rem 0rem;
+}
+
+.emphasis {
+  color: rgb(255, 109, 109);
+}
+
+.container-blue {
+  border-width: 0.3rem;
+  border-color: rgb(255, 109, 109);
+  border-radius: 1rem;
+  border-style: solid;
+  padding: 2rem;
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.container-blue h1 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.list li {
+  margin-left: 2rem;
+  font-size: 2rem;
+}
+
+.centered-large {
+  font-size: 5rem;
+  text-align: center;
+  padding: 2rem;
+}
+
+.center-content {
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 2rem;
+}
